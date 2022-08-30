@@ -1,0 +1,28 @@
+h1{
+    text-align:center;
+}
+.formgrp{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    width:70%;
+    padding:6px 12px;
+    margin:8px 13px;
+    font-size:18px;
+    border:2px solid black;
+    outline:none;
+}
+
+.btn{
+    padding: 0px 30px;
+    margin: 20px 20px;
+    font-size: 20px;
+    border:2px solid black;
+    background-color: yellow;
+    outline:none;
+    cursor:pointer;
+}
